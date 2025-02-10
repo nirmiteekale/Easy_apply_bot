@@ -12,6 +12,8 @@ A powerful automation tool designed to streamline the job application process on
  Saves time by simplifying the job-hunting process for job seekers.
 
 # Tech Stack
+
 Programming Language: Python
+
 Libraries: Selenium, BeautifulSoup, Pandas
 
