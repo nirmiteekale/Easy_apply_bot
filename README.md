@@ -1,11 +1,13 @@
-# LinkedIn Easy Apply Bot
+# LinkedIn Easy Job Apply Bot
+A powerful automation tool designed to streamline the job application process on LinkedIn by reducing manual effort and enhancing productivity.
 
-_Automate your LinkedIn job applications with ease!_
+# Key Features
+Automates job searches based on custom filters like job title, location, and experience level.
+Auto-applies to job postings by filling out LinkedIn's job application forms.
+Efficient error handling ensures seamless operation and prevents application failures.
+Saves time by simplifying the job-hunting process for job seekers.
 
-
-## Key Features
-
-- Apply to thousands of jobs effortlessly.
-- Track application dates and times for performance analysis. <span style="color:green">(New!)</span>
-
+# Tech Stack
+Programming Language: Python
+Libraries: Selenium, BeautifulSoup, Pandas
 
